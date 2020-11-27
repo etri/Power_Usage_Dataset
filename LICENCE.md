@@ -27,3 +27,5 @@ No warranties are given. The license may not give you all of the permissions nec
 Commons Deed : https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Legal Code : https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+Copyright 2020. ETRI. All rights reserved
